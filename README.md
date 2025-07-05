@@ -19,8 +19,8 @@ It serves as a digital resume and portfolio that introduces who I am, my skills,
 - Google Fonts
 
 ## 📁 Files Structure
-
-- index.html # Main HTML structure.
+- web page.png # overview to the websit.
+- personal web page.html # Main HTML structure.
 - style.css # Website styling.
 - script.js # Basic JavaScript functionality.
 - README.md # Project description and instructions.
