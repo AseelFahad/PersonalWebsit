@@ -28,19 +28,7 @@ It serves as a digital resume and portfolio that introduces who I am, my skills,
 ## 📷 Preview
 
 You can open `index.html` in any web browser to view the website locally.
-
-## 🚀 Live Website (Optional)
-
-> If deployed using GitHub Pages:  
-**[View Live Site](https://your-username.github.io/repo-name/)**
-
-## 🧑‍💼 Author
-
-- **Name:** Your Full Name  
-- **Email:** your@email.com  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-
+  
 ## 📜 License
 
 This project is open source and free to use.
